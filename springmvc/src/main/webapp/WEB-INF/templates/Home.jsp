@@ -9,6 +9,6 @@
 </head>
 <body>
 	<h1>Página home</h1>
-	<h2>Spring Mvc Configurado com sucesso!</h2>
+	<h2>Spring Mvc Configurado com muito sucesso!</h2>
 </body>
 </html>
