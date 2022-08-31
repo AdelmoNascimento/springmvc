@@ -1,0 +1,3 @@
+br\eti\tiagosousa\springmvc\config\init\AppInitializer.class
+br\eti\tiagosousa\springmvc\controller\HomeController.class
+br\eti\tiagosousa\springmvc\config\WebConfig.class
